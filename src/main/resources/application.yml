@@ -1,0 +1,4 @@
+spring:
+  docker:
+    compose:
+      file: src/main/resources/docker-compose.yml
